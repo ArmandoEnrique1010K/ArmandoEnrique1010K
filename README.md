@@ -47,5 +47,4 @@
 
 <h3 align="center">Statistics</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armandoenrique1010k&show_icons=true&locale=en&layout=compact" alt="armandoenrique1010k" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armandoenrique1010k&show_icons=true&locale=en" alt="armandoenrique1010k" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armandoenrique1010k&" alt="armandoenrique1010k" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=armandoenrique1010k&show_icons=true&locale=en" alt="armandoenrique1010k" /></p>
