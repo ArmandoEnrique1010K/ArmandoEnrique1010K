@@ -46,5 +46,5 @@
 </p>
 
 <h3 align="center">Statistics</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armandoenrique1010k&show_icons=true&locale=en&layout=compact" alt="armandoenrique1010k" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=armandoenrique1010k&show_icons=true&locale=en" alt="armandoenrique1010k" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armandoenrique1010k&show_icons=true&locale=en&layout=compact" alt="armandoenrique1010k" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=armandoenrique1010k&show_icons=true&locale=en" alt="armandoenrique1010k" /></p>
