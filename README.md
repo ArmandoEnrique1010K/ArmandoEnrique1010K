@@ -1,4 +1,4 @@
-<h1 align="center">D.A.R.K.</h1>
+<h1 align="center">Armando KD</h1>
 <h2 align="center">Desarrollador web con experiencia en React & Spring Boot</h2>
 
 <p>
