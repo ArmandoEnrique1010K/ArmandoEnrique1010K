@@ -59,6 +59,9 @@ La IA no reemplazará a los programadores, sino a aquellos que no sepan usarla. 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/></a>  
   <a href="https://netbeans.apache.org/front/main/download/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="40" height="40"/></a>
+  <a href="https://www.marktext.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marktext/marktext/refs/heads/develop/static/logo-small.png" alt="marktext" width="40" height="40"/></a>
+  <a href="https://www.notion.com/es" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
 <h3 align="center">Estadisticas</h3>
