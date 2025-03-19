@@ -2,7 +2,7 @@
 <h2 align="center">Desarrollador web con experiencia en React & Spring Boot</h2>
 
 <p>
-La IA no reemplazará a los programadores, sino a aquellos que no sepan usarla. El futuro no es de quienes temen la tecnología, sino de quienes aprenden a hacer las preguntas correctas y dominan las herramientas que transforman el mundo.
+La IA no sustituirá a los programadores, sino a quienes no sepan aprovecharla. El futuro pertenece a quienes no temen la tecnología, sino a quienes hacen las preguntas correctas y dominan las herramientas que impulsan la innovación.
 </p>
 
 <h3 align="center">Logros</h3>
