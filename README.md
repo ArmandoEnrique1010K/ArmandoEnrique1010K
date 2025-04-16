@@ -2,7 +2,7 @@
 <h2 align="center">Desarrollador web con experiencia en React & Spring Boot</h2>
 
 <p>
-La IA no sustituirá a los programadores, sino a quienes no sepan aprovecharla. El futuro pertenece a quienes no temen la tecnología, sino a quienes hacen las preguntas correctas y dominan las herramientas que impulsan la innovación.
+Jamás te confíes al 100% en el resultado de una IA. No hagas vibe coding sin los conocimientos técnicos. La IA no reemplazará a los programadores, sino a quienes no sepan aprovecharla. El futuro pertenece a aquellos que no temen la tecnología, sino a quienes hacen las preguntas correctas, dominan las herramientas y comprenden el poder de la innovación.
 </p>
 
 <h3 align="center">Logros</h3>
