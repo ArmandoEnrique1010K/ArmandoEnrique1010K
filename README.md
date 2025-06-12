@@ -1,10 +1,6 @@
 <h1 align="center">Armando KD</h1>
 <h2 align="center">Desarrollador web con experiencia en React & Spring Boot</h2>
 
-<p>
-Jamás te confíes al 100% en el resultado de una IA. No hagas vibe coding sin los conocimientos técnicos. La IA no reemplazará a los programadores, sino a quienes no sepan aprovecharla. El futuro pertenece a aquellos que no temen la tecnología, sino a quienes hacen las preguntas correctas, dominan las herramientas y comprenden el poder de la innovación.
-</p>
-
 <h3 align="center">Logros</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armandoenrique1010k" alt="armandoenrique1010k" /></a> </p>
 
