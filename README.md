@@ -55,9 +55,9 @@
 <p align="center">
   <a href="https://reactrouter.com/home" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="reactrouter" width="50" height="50" style="background-color: #fff; border-radius: 20%;"/></a>
   <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" alt="axios" width="50" height="50" style="background-color: #fff; border-radius: 20%;"/></a>
-  <a href="https://zustand.docs.pmnd.rs/getting-started/introduction" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" alt="zustand" width="50" height="50"/>
-  <a href="https://tanstack.com/query/latest/docs/framework/react/overview" target="_blank" rel="noreferrer"><img src="https://tanstack.com/images/logos/logo-color-100.png" alt="tanstackQuery" width="50" height="50"/>
-  <a href="https://react-hook-form.com/get-started" target="_blank" rel="noreferrer"><img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" alt="React Hook Form" width="50" height="50"/>
+  <a href="https://zustand.docs.pmnd.rs/getting-started/introduction" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" alt="zustand" width="50" height="50"/></a>
+  <a href="https://tanstack.com/query/latest/docs/framework/react/overview" target="_blank" rel="noreferrer"><img src="https://tanstack.com/images/logos/logo-color-100.png" alt="tanstackQuery" width="50" height="50"/></a>
+  <a href="https://react-hook-form.com/get-started" target="_blank" rel="noreferrer"><img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" alt="React Hook Form" width="50" height="50"/></a>
   <a href="https://tonejs.github.io/" target="_blank" rel="noreferrer"><img src="./assets/tonejs.png" alt="tonejs" width="50" height="50"/></a>
 </p>
 
@@ -95,9 +95,7 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/></a>
   <a href="https://windsurf.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/pheralb/svgl/d00a29d4483cf0cc1e16ab816b0248b93332733a/static/library/windsurf-dark.svg" alt="windsurf" width="50" height="50"/></a>
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="50" height="50"/></a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50"/>
-          </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="50" height="50"/></a>
 </p>
   <p align="center">
