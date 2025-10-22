@@ -10,10 +10,10 @@
 
 <h2 align="center">Contacto</h2>
 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ArmandoEnrique1010K&label=Profile views&color=0e75b6&style=for-the-badge&color=blue&label=Observadores" alt="ArmandoEnrique1010K" /> </p>
+  <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ArmandoEnrique1010K&label=Profile views&color=0e75b6&style=for-the-badge&color=blue&label=Observadores" alt="ArmandoEnrique1010K" /> </p> -->
   <p align="center">
     <a href="https://www.linkedin.com/in/armando-enrique-kaneko-diaz-49617b294" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/></a>
-    <a href="https://github.com/ArmandoEnrique1010K" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="ArmandoEnrique1010K" style="background-color: #fff; border-radius: 20%;"  width="50" height="50"/></a>
+    <a href="https://github.com/ArmandoEnrique1010K" target="_blank" rel="noreferrer"><img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" alt="GitHub" width="50" height="50"/></a>
   </p>
 <h2 align="center">Tecnologías</h2>
 
@@ -38,7 +38,7 @@
 <h3 align="center">Desarrollo Backend</h3>
 <p align="center">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="node" width="50" height="50"/></a> 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="background-color: #fff;" alt="express" width="50" height="50"/></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" alt="express" width="50" height="50"/></a>
   <a href="https://spring.io/projects" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/></a>
   <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" alt="thymeleaf" width="50" height="50"/></a>
 </p>
@@ -72,7 +72,7 @@
 <p align="center">
     <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="netlify" width="50" height="50"/></a>
     <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="./assets/Render.svg" alt="render" width="50" height="50"/></a>
-    <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="50" height="50" style="background-color: #fff;"/></a>
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vercel-Dark.svg" alt="vercel" width="50" height="50"/></a>
 </p>
 
 <!-- <h3 align=center>Ecosistemas de desarrollo</h3>
@@ -92,16 +92,18 @@
 
 <h3 align="center">Software y herramientas</h3>
 <p align="center">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="background-color: #404040; border-radius: 20%; padding: 5px" alt="vscode" width="40" height="40"/></a>
-  <a href="https://windsurf.com/" target="_blank" rel="noreferrer"><img src="https://exafunction.github.io/public/brand/windsurf-black-symbol.svg" style="background-color: #fff; border-radius: 20%" alt="windsurf" width="50" height="50"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/></a>
+  <a href="https://windsurf.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/pheralb/svgl/d00a29d4483cf0cc1e16ab816b0248b93332733a/static/library/windsurf-dark.svg" alt="windsurf" width="50" height="50"/></a>
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="50" height="50"/></a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="background-color: #fff; border-radius: 20%;" alt="jupyter" width="50" height="50"/></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50"/>
+          </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="50" height="50"/></a>
 </p>
   <p align="center">
-  <a href="https://chatgpt.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" style="background-color: #fff; border-radius: 20%; padding: 5px"  alt="chatgpt" width="40" height="40"/></a>
-  <a href="https://www.notion.com/es" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" style="background-color: #fff; border-radius: 20%; padding: 5px" alt="notion" width="40" height="40"/></a>
-  <a href="https://notebooklm.google/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/notebooklm-icon.png" style="background-color: #fff; border-radius: 20%; padding: 5px" alt="notion" width="40" height="40"/></a>
+  <a href="https://chatgpt.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/47d6fdf80f02218515777b573895686299f5470e/svg/chatgpt.svg" alt="chatgpt" width="50" height="50"/></a>
+  <a href="https://www.notion.com/es" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="50" height="50"/></a>
+  <a href="https://notebooklm.google/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/47d6fdf80f02218515777b573895686299f5470e/svg/notebook-lm-dark.svg" alt="notion" width="50" height="50"/></a>
   <a href="https://www.marktext.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marktext/marktext/refs/heads/develop/static/logo-small.png"  alt="marktext" style="background-color: #404040; border-radius:20%; padding: 5px" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40" style="background-color: #505050; border-radius: 20%; padding: 5px" /></a>
 </p>
