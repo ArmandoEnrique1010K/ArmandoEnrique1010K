@@ -112,7 +112,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armandoenrique1010k&title=-Reviews&row=3&column=4&margin-w=20&margin-h=20&theme=algolia" alt="armandoenrique1010k" /></a> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armandoenrique1010k&show_icons=true&locale=es&layout=pie&theme=algolia&langs_count=6&hide=papyrus" alt="armandoenrique1010k" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armandoenrique1010k&show_icons=true&locale=es&layout=pie&theme=algolia&langs_count=6&hide=papyrus&size_weight=1&count_weight=0&exclude_repo=Curso-React-Pro-Lleva-tus-bases-al-siguiente-nivel" alt="armandoenrique1010k" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=armandoenrique1010k&show_icons=true&locale=es&theme=algolia" alt="armandoenrique1010k"/></p>
 <p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=ArmandoEnrique1010K&theme=dark&locale=es&theme=algolia" alt="armandoenrique1010k"/></p>
