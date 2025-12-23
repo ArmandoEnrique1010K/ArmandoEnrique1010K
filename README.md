@@ -3,19 +3,25 @@
 <p align="center">Desarrollador web con experiencia en frontend con React y backend con Node.js y Spring Boot</p>
 
 <p align="center">
+<span>🔭 Actualmente estoy trabajando en un <strong>Proyecto de gestión de inventario</strong></span>
+<br>
 <span>🌱 Actualmente estoy aprendiendo <strong>Next.js & LangChain</strong></span>
 <br>
 <span>💬 Preguntame sobre <strong>React, Node y/o Spring Boot</strong></span>
+<br>
+<span>⚡ Un dato curioso es que <strong>soy jugador de Yu-Gi-Oh! Master Duel</strong></span>
 </p>
 
 <h2 align="center">Contacto</h2>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ArmandoEnrique1010K&label=Profile views&color=0e75b6&style=for-the-badge&color=blue&label=Observadores" alt="ArmandoEnrique1010K" /> </p>
 
-  <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ArmandoEnrique1010K&label=Profile views&color=0e75b6&style=for-the-badge&color=blue&label=Observadores" alt="ArmandoEnrique1010K" /> </p> -->
   <p align="center">
     <a href="https://www.linkedin.com/in/armando-enrique-kaneko-diaz-49617b294" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/></a>
     <a href="https://github.com/ArmandoEnrique1010K" target="_blank" rel="noreferrer"><img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" alt="GitHub" width="50" height="50"/></a>
   </p>
 <h2 align="center">Tecnologías</h2>
+
+<div> </div>
 
 <h3 align="center">Lenguajes de programación</h3>
 <p align="center">
@@ -40,7 +46,7 @@
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="node" width="50" height="50"/></a> 
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" alt="express" width="50" height="50"/></a>
   <a href="https://spring.io/projects" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/></a>
-  <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" alt="thymeleaf" width="50" height="50"/></a>
+  <a href="https://www.thymeleaf.org/documentation.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" alt="thymeleaf" width="50" height="50"/></a>
 </p>
 
 <h3 align="center">Bases de datos</h3>
@@ -53,11 +59,11 @@
 
 <h3 align="center">Librerias</h3>
 <p align="center">
-  <a href="https://reactrouter.com/home" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="reactrouter" width="50" height="50" style="background-color: #fff; border-radius: 20%;"/></a>
-  <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" alt="axios" width="50" height="50" style="background-color: #fff; border-radius: 20%;"/></a>
+  <a href="https://reactrouter.com/home" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs/d2cf54890fd04223cbef504ab057f05aba96fe17/apps/web/public/logos/react-router.dark.svg" alt="reactrouter" width="50" height="50" /></a>
+  <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" alt="axios" width="50" height="50" /></a>
   <a href="https://zustand.docs.pmnd.rs/getting-started/introduction" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" alt="zustand" width="50" height="50"/></a>
-  <a href="https://tanstack.com/query/latest/docs/framework/react/overview" target="_blank" rel="noreferrer"><img src="https://tanstack.com/images/logos/logo-color-100.png" alt="tanstackQuery" width="50" height="50"/></a>
-  <a href="https://react-hook-form.com/get-started" target="_blank" rel="noreferrer"><img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" alt="React Hook Form" width="50" height="50"/></a>
+  <a href="https://tanstack.com/query/latest/docs/framework/react/overview" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/pheralb/svgl/06a1c7f443bb702317165c5091e4a648a6bc2eda/static/library/tanstack.svg" alt="tanstackQuery" width="50" height="50"/></a>
+  <a href="https://react-hook-form.com/get-started" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs/d2cf54890fd04223cbef504ab057f05aba96fe17/apps/web/public/logos/react-hook-form.svg" alt="React Hook Form" width="50" height="50"/></a>
   <a href="https://tonejs.github.io/" target="_blank" rel="noreferrer"><img src="./assets/tonejs.png" alt="tonejs" width="50" height="50"/></a>
 </p>
 
@@ -68,21 +74,22 @@
   <a href="https://express-validator.github.io/docs/" target="_blank" rel="noreferrer"><img src="https://express-validator.github.io/img/logo.svg" alt="express-validator" width="50" height="50"/></a>
 </p>
 
+<h3 align=center>Ecosistemas de desarrollo</h3>
+<p align="center">
+<a href="https://vite.dev/guide/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="50" height="50" /></a>
+<a href="https://docs.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" alt="npm" width="50" height="50" /></a>
+<a href="https://yarnpkg.com/getting-started" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349575/yarn.svg" alt="yarn" width="50" height="50" /></a>
+<a href="https://maven.apache.org/guides/index.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="maven" width="50" height="50" />
+</a>
+
+</p>
+
 <h3 align=center>Plataformas como Servicio (PaaS)</h3>
 <p align="center">
     <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="netlify" width="50" height="50"/></a>
     <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="./assets/Render.svg" alt="render" width="50" height="50"/></a>
     <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vercel-Dark.svg" alt="vercel" width="50" height="50"/></a>
 </p>
-
-<!-- <h3 align=center>Ecosistemas de desarrollo</h3>
-<p align="center">
-<a href="https://vite.dev/guide/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="50" height="50" /></a>
-<a href="https://docs.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" alt="npm" width="50" height="50" /></a>
-<a href="https://maven.apache.org/guides/index.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="maven" width="50" height="50" />
-</a>
-
-</p> -->
 
 <h3 align=center>Pruebas</h3>
 <p align="center">
@@ -99,11 +106,11 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="50" height="50"/></a>
 </p>
   <p align="center">
-  <a href="https://chatgpt.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/47d6fdf80f02218515777b573895686299f5470e/svg/chatgpt.svg" alt="chatgpt" width="50" height="50"/></a>
-  <a href="https://www.notion.com/es" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="50" height="50"/></a>
+  <a href="https://chatgpt.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/ChatGPT_Search_logo_Black_Square_-_rounded_corners.svg" alt="chatgpt" width="50" height="50"/></a>
+  <a href="https://www.notion.com/es" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/notion-icon.svg" alt="notion" width="50" height="50"/></a>
   <a href="https://notebooklm.google/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/47d6fdf80f02218515777b573895686299f5470e/svg/notebook-lm-dark.svg" alt="notion" width="50" height="50"/></a>
-  <a href="https://www.marktext.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marktext/marktext/refs/heads/develop/static/logo-small.png"  alt="marktext" style="background-color: #404040; border-radius:20%; padding: 5px" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40" style="background-color: #505050; border-radius: 20%; padding: 5px" /></a>
+  <a href="https://www.marktext.cc/" target="_blank" rel="noreferrer"><img src="assets/marktext.png"  alt="marktext"  width="50" height="50"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="50" height="50" /></a>
 </p>
 
 <h2 align="center">Estadisticas</h2>
@@ -118,3 +125,6 @@
 <p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=ArmandoEnrique1010K&theme=dark&locale=es&theme=algolia" alt="armandoenrique1010k"/></p>
 
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=armandoenrique1010k" alt="armandoenrique1010k"/></p> -->
+
+<!-- PAGINA PARA OBTENER ICONOS -->
+<!-- https://logosear.ch/search.html -->
