@@ -1,6 +1,6 @@
 <h1 align="center">Armando KD</h1>
 
-<p align="center">Desarrollador web con experiencia en frontend con React y backend con Node.js y Spring Boot</p>
+<p align="center">Desarrollador web con experiencia en frontend con React y Next.js y backend con Node.js y Spring Boot</p>
 
 <p align="center">
 <span>🔭 Actualmente estoy trabajando en un <strong>Proyecto de gestión de inventario</strong></span>
