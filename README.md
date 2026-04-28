@@ -18,21 +18,13 @@
 
 <h1 align="center">Contacto</h1>
 
-<p align="center">
-<table border="1">
+<table align="center" border="1">
   <tr>
-    <td>
-          <a href="https://www.linkedin.com/in/armando-enrique-kaneko-diaz-49617b294" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/></a>
-    </td>
-    <td>
-      <a href="https://github.com/ArmandoEnrique1010K" target="_blank" rel="noreferrer"><img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" alt="GitHub" width="50" height="50"/></a>
-    </td>
-    <td>
-          <a href="https://www.instagram.com/armandoenrique1010k" target="_blank" rel="noreferrer"><img  src="./assets/instagram.png" alt="GitHub" width="50" height="50"/></a>
-    </td>
+    <td><a href="https://www.linkedin.com/in/armando-enrique-kaneko-diaz-49617b294" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/></a></td>
+    <td><a href="https://github.com/ArmandoEnrique1010K" target="_blank" rel="noreferrer"><img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" alt="GitHub" width="50" height="50"/></a></td>
+    <td><a href="https://www.instagram.com/armandoenrique1010k" target="_blank" rel="noreferrer"><img src="./assets/instagram.png" alt="instagram" width="50" height="50"/></a></td>
   </tr>
 </table>
-</p>
 
 <!-- <p align="center">
   <table border="1">
