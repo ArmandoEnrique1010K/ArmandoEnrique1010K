@@ -2,26 +2,30 @@
 <!-- BANNER GENERADO CON: https://leviarista.github.io/github-profile-header-generator/ -->
 <img src="./assets/github-header-banner.png">
 
-<p align="center" style="font-size:16px;">
-<span>🔭 Actualmente estoy trabajando en un <strong>⌨️ Proyecto creativo de simulador de guitarra 🎸</strong></span>
-<br>
-<span>🌱 Actualmente estoy aprendiendo <strong>➡️ Next.js & LangChain🦜</strong> </span>
-<br>
-<span>🤝 Estoy interesado en <strong>🧩 arquitectura de software y sistemas escalables 📖</strong></span>
-<br>
-<span>💬 Preguntame sobre <strong>⚛️ React, Next.js Node y/o Spring Boot 🍃</strong></span>
-<br>
-<span>📫 Puedes contactarme enviando un email a <strong>📨 <a href="mailto:enrique1010k@gmail.com">enrique1010k@gmail.com</a> 📨</strong></span>
-<br>
-<span>⚡ Un dato curioso es que <strong>soy jugador de ⚙️ Yu-Gi-Oh! Master Duel 🚅</strong></span>
+<p align="center">
+  <font size="3">
+    <span>🔭 Actualmente estoy trabajando en un <strong>⌨️ Proyecto creativo de simulador de guitarra 🎸</strong></span>
+    <br>
+    <span>🌱 Actualmente estoy aprendiendo <strong>➡️ Next.js & LangChain🦜</strong> </span>
+    <br>
+    <span>🤝 Estoy interesado en <strong>🧩 arquitectura de software y sistemas escalables 📖</strong></span>
+    <br>
+    <span>💬 Preguntame sobre <strong>⚛️ React, Next.js Node y/o Spring Boot 🍃</strong></span>
+    <br>
+    <span>📫 Puedes contactarme enviando un email a <strong>📨 <a href="mailto:enrique1010k@gmail.com">enrique1010k@gmail.com</a> 📨</strong></span>
+    <br>
+    <span>⚡ Un dato curioso es que soy jugador de <strong>⚙️ Yu-Gi-Oh! Master Duel 🚅</strong></span>
+  </font>
 </p>
 
-<h2 align="center" style="font-size:28px;">Contacto</h2>
+<h2 align="center"><font size="6">Contacto</font></h2>
 
-<p style="display:flex; flex-direction:row; gap:1rem; align-items:center;justify-content:center">
-    <a href="https://www.linkedin.com/in/armando-enrique-kaneko-diaz-49617b294" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/></a>
-    <a href="https://github.com/ArmandoEnrique1010K" target="_blank" rel="noreferrer"><img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" alt="GitHub" width="50" height="50"/></a>
-    <a href="https://www.instagram.com/armandoenrique1010k" target="_blank" rel="noreferrer"><img src="./assets/instagram.png" alt="GitHub" width="50" height="50"/></a>
+<p align="center">
+  <span>
+      <a href="https://www.linkedin.com/in/armando-enrique-kaneko-diaz-49617b294" target="_blank" rel="noreferrer"><img hspace="5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/></a>
+      <a href="https://github.com/ArmandoEnrique1010K" target="_blank" rel="noreferrer"><img hspace="5px" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" alt="GitHub" width="50" height="50"/></a>
+      <a href="https://www.instagram.com/armandoenrique1010k" target="_blank" rel="noreferrer"><img hspace="5px" src="./assets/instagram.png" alt="GitHub" width="50" height="50"/></a>
+    </span>
   </p>
 
 <!-- <p align="center">
@@ -79,7 +83,6 @@
   <a href="https://tanstack.com/query/latest/docs/framework/react/overview" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/pheralb/svgl/06a1c7f443bb702317165c5091e4a648a6bc2eda/static/library/tanstack.svg" alt="tanstackQuery" width="50" height="50"/></a>
   <a href="https://react-hook-form.com/get-started" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs/d2cf54890fd04223cbef504ab057f05aba96fe17/apps/web/public/logos/react-hook-form.svg" alt="React Hook Form" width="50" height="50"/></a>
   <a href="https://tonejs.github.io/" target="_blank" rel="noreferrer"><img src="./assets/tonejs.png" alt="tonejs" width="50" height="50"/></a>
-
 </p>
 
 <p style="display:flex; flex-direction:row; gap:1rem; align-items:center;justify-content:center">
