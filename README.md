@@ -2,8 +2,7 @@
 <!-- BANNER GENERADO CON: https://leviarista.github.io/github-profile-header-generator/ -->
 <img src="./assets/github-header-banner.png">
 
-<p align="center">
-  <font size="3">
+<h3 align="center">
     <span>🔭 Actualmente estoy trabajando en un <strong>⌨️ Proyecto creativo de simulador de guitarra 🎸</strong></span>
     <br>
     <span>🌱 Actualmente estoy aprendiendo <strong>➡️ Next.js & LangChain🦜</strong> </span>
@@ -15,18 +14,25 @@
     <span>📫 Puedes contactarme enviando un email a <strong>📨 <a href="mailto:enrique1010k@gmail.com">enrique1010k@gmail.com</a> 📨</strong></span>
     <br>
     <span>⚡ Un dato curioso es que soy jugador de <strong>⚙️ Yu-Gi-Oh! Master Duel 🚅</strong></span>
-  </font>
-</p>
+</h3>
 
-<h2 align="center"><font size="6">Contacto</font></h2>
+<h1 align="center">Contacto</h1>
 
 <p align="center">
-  <span>
-      <a href="https://www.linkedin.com/in/armando-enrique-kaneko-diaz-49617b294" target="_blank" rel="noreferrer"><img hspace="5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/></a>
-      <a href="https://github.com/ArmandoEnrique1010K" target="_blank" rel="noreferrer"><img hspace="5px" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" alt="GitHub" width="50" height="50"/></a>
-      <a href="https://www.instagram.com/armandoenrique1010k" target="_blank" rel="noreferrer"><img hspace="5px" src="./assets/instagram.png" alt="GitHub" width="50" height="50"/></a>
-    </span>
-  </p>
+<table border="1">
+  <tr>
+    <td>
+          <a href="https://www.linkedin.com/in/armando-enrique-kaneko-diaz-49617b294" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/></a>
+    </td>
+    <td>
+      <a href="https://github.com/ArmandoEnrique1010K" target="_blank" rel="noreferrer"><img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" alt="GitHub" width="50" height="50"/></a>
+    </td>
+    <td>
+          <a href="https://www.instagram.com/armandoenrique1010k" target="_blank" rel="noreferrer"><img  src="./assets/instagram.png" alt="GitHub" width="50" height="50"/></a>
+    </td>
+  </tr>
+</table>
+</p>
 
 <!-- <p align="center">
   <table border="1">
