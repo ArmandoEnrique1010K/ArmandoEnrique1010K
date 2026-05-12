@@ -9,7 +9,7 @@
     <br>
     <span>🤝 Estoy interesado en <strong>🧩 arquitectura de software y sistemas escalables 📖</strong></span>
     <br>
-    <span>💬 Preguntame sobre <strong>⚛️ React, Next.js Node y/o Spring Boot 🍃</strong></span>
+    <span>💬 Preguntame sobre <strong>⚛️ React, Next.js Node.js y/o Spring Boot 🍃</strong></span>
     <br>
     <span>📫 Puedes contactarme enviando un email a <strong>📨 <a href="mailto:enrique1010k@gmail.com">enrique1010k@gmail.com</a> 📨</strong></span>
     <br>
@@ -95,14 +95,14 @@
     <td><a href="https://www.npmjs.com/package/nodemon" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" alt="nodemon" width="50" height="50"/></a></td>
     <td><a href="https://mongoosejs.com/docs/index.html" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" alt="mongoose" width="50" height="50"/></a></td>
     <td><a href="https://sequelize.org/docs/v6/getting-started/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" alt="sequelize" width="50" height="50"/></a></td>
-    <td><a href="https://express-validator.github.io/docs/" ><img src="https://express-validator.github.io/img/logo.svg" alt="express-validator" width="50" height="50"/></a></td>
+    <td><a href="https://www.prisma.io/docs" ><img src="./assets/light-prisma-svgrepo-com.svg" alt="prisma" width="50" height="50"/></a></td>
   </tr>
 </table>
 <table align="center" border="1">
   <tr>
+    <td><a href="https://express-validator.github.io/docs/" ><img src="https://express-validator.github.io/img/logo.svg" alt="express-validator" width="50" height="50"/></a></td>
     <td><a href="https://www.jwt.io/" ><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt" width="50" height="50"/></a></td>
     <td><a href="https://swagger.io/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="swagger" width="50" height="50"/></a></td>
-    <td><a href="https://nodemailer.com/" ><img src="assets/nodemailer.png" alt="nodemailer" height="50"/></a></td>
   </tr>
 </table>
 <table align="center" border="1">
@@ -129,7 +129,17 @@
 <table align="center" border="1">
   <tr>
     <td><a href="https://www.mailersend.com/" ><img src="./assets/mailersend.png" alt="mailersend" width="50" height="50"/></a></td>
+    <td><a href="https://resend.com/" ><img src="./assets/resend-icon-white.png" alt="resend" width="50" height="50"/></a></td>
     <td><a href="https://cloudinary.com/" ><img src="./assets/cloudinary.png" alt="cloudinary" width="50" height="50"/></a></td>
+  </tr>
+</table>
+
+<h2 align="center">Bases de datos como Servicio (DBaaS)</h2>
+<table align="center" border="1">
+  <tr>
+      <td><a href="https://www.mongodb.com/products/platform/atlas-database" ><img src="./assets/mongodbAtlas.png" alt="MongoDB Atlas" width="50" height="50"/></a></td>
+      <td><a href="https://aiven.io/" ><img src="./assets/Aiven.png" alt="Aiven" width="50" height="50"/></a></td>
+      <td><a href="https://neon.com/" ><img src="./assets/neon-logomark-dark-color.svg" alt="Neon" width="50" height="50"/></a></td>
   </tr>
 </table>
 
@@ -138,9 +148,9 @@
   <tr>
     <td><a href="https://www.netlify.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="netlify" width="50" height="50"/></a></td>
     <td><a href="https://render.com/" ><img src="./assets/Render.svg" alt="render" width="50" height="50"/></a></td>
+    <td><a href="https://vercel.com/" ><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vercel-Dark.svg" alt="vercel" width="50" height="50"/></a> </td>
   </tr>
 </table>
-    <!-- <a href="https://vercel.com/" ><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vercel-Dark.svg" alt="vercel" width="50" height="50"/></a> -->
 
 <h2 align="center">Pruebas</h2>
 <table align="center" border="1">
