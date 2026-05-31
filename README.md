@@ -5,7 +5,7 @@
 <p align="center">
     <span>🔭 Actualmente estoy trabajando en un <strong>⌨️ Proyecto creativo de simulador de guitarra 🎸</strong></span>
     <br>
-    <span>🌱 Actualmente estoy aprendiendo <strong>➡️ Next.js & LangChain🦜</strong> </span>
+    <span>🌱 Actualmente estoy aprendiendo <strong>➡️ Next.js & LangChain 🦜</strong> </span>
     <br>
     <span>🤝 Estoy interesado en <strong>🧩 arquitectura de software y sistemas escalables 📖</strong></span>
     <br>
@@ -22,7 +22,7 @@
   <tr>
     <td><a href="https://www.linkedin.com/in/armando-enrique-kaneko-diaz-49617b294" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/></a></td>
     <td><a href="https://github.com/ArmandoEnrique1010K" ><img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" alt="GitHub" width="50" height="50"/></a></td>
-    <td><a href="https://www.instagram.com/armandoenrique1010k" ><img src="./assets/instagram.png" alt="instagram" width="50" height="50"/></a></td>
+    <td><a href="https://www.instagram.com/armandoenrique1020k" ><img src="./assets/instagram.png" alt="instagram" width="50" height="50"/></a></td>
   </tr>
 </table>
 
@@ -103,11 +103,11 @@
     <td><a href="https://express-validator.github.io/docs/" ><img src="https://express-validator.github.io/img/logo.svg" alt="express-validator" width="50" height="50"/></a></td>
     <td><a href="https://www.jwt.io/" ><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt" width="50" height="50"/></a></td>
     <td><a href="https://swagger.io/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="swagger" width="50" height="50"/></a></td>
+    <td><a href="https://docs.spring.io/spring-boot/index.html" ><img src="./assets/spring-boot.svg" alt="spring boot" width="50" height="50"/></a></td>
   </tr>
 </table>
 <table align="center" border="1">
   <tr>
-    <td><a href="https://docs.spring.io/spring-boot/index.html" ><img src="./assets/spring-boot.svg" alt="spring boot" width="50" height="50"/></a></td>
     <td><a href="https://projectlombok.org/features/" ><img src="./assets/lombok.png" alt="lombok" width="50" height="50"/></a></td>
     <td><a href="https://docs.spring.io/spring-data/jpa/reference/" ><img src="./assets/spring-data.svg" alt="spring data" width="50" height="50"/></a></td>
     <td><a href="https://docs.spring.io/spring-security/reference/index.html" ><img src="./assets/spring-security.svg" alt="spring security" width="50" height="50"/></a></td>
@@ -166,12 +166,12 @@
     <td><a href="https://plantuml.com/es/" ><img src="./assets/plantuml.svg" alt="plantuml" width="50" height="50"/></a></td>
     <td><a href="https://www.figma.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="50" height="50" /></a></td>
     <td><a href="https://github.com/marktext/marktext" ><img src="assets/marktext.png"  alt="marktext"  width="50" height="50"/></a></td>
+    <td><a href="https://code.visualstudio.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/></a></td>
   </tr>
 </table>
 
 <table align="center" border="1">
   <tr>
-    <td><a href="https://code.visualstudio.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/></a></td>
     <td><a href="https://windsurf.com/" ><img src="./assets/Windsurf-logo.png" alt="windsurf" width="50" height="50"/></a></td>
     <td><a href="https://jupyter.org/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/></a></td>
     <td><a href="https://dbeaver.io/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="50" height="50"/></a></td>
