@@ -2,19 +2,39 @@
 <!-- BANNER GENERADO CON: https://leviarista.github.io/github-profile-header-generator/ -->
 <img src="./assets/github-header-banner.png">
 
+
+
 <p align="center">
-    <span>🔭 Actualmente estoy trabajando en un <strong>⌨️ Proyecto creativo de simulador de guitarra 🎸</strong></span>
+    <span>🔭 Actualmente estoy trabajando en un <strong>🚀 Proyecto de microservicios con Java y Spring Boot ☕</strong></span>
     <br>
-    <span>🌱 Actualmente estoy aprendiendo <strong>➡️ Next.js & LangChain 🦜</strong> </span>
+    <span>🌱 Actualmente estoy aprendiendo <strong>📚 Spring Boot 4, arquitectura de microservicios, Docker y documentación de APIs REST 🐋</strong> </span>
     <br>
-    <span>🤝 Estoy interesado en <strong>🧩 arquitectura de software y sistemas escalables 📖</strong></span>
+    <span>🤝 Estoy interesado en <strong>🏗️ arquitectura de software, sistemas distribuidos y diseño de sistemas escalables 🧩</strong></span>
     <br>
-    <span>💬 Preguntame sobre <strong>⚛️ React, Next.js Node.js y/o Spring Boot 🍃</strong></span>
+    <span>💬 Preguntame sobre <strong>⚛️ React, ▲ Next.js, 🟢 Node.js, ☕ Java y 🍃 Spring Boot</strong></span>
     <br>
     <span>📫 Puedes contactarme enviando un email a <strong>📨 <a href="mailto:enrique1010k@gmail.com">enrique1010k@gmail.com</a> 📨</strong></span>
     <br>
     <span>⚡ Un dato curioso es que soy jugador de <strong>⚙️ Yu-Gi-Oh! Master Duel 🚅</strong></span>
 </p>
+
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<!-- ![](https://komarev.com/ghpvc/?username=ArmandoEnrique1010K&color=brightgreen) -->
+
+<!--  https://committers.top/peru_public -->
+<!-- [![committers.top badge](https://user-badge.committers.top/peru_public/ArmandoEnrique1010K.svg)](https://user-badge.committers.top/peru_public/ArmandoEnrique1010K) -->
+<table align="center" border="1">
+  <tr>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=ArmandoEnrique1010K&color=brightgreen"/>
+    </td>
+    <td>
+      <img src="https://user-badge.committers.top/peru_public/ArmandoEnrique1010K.svg"/>
+    </td>
+  </tr>
+</table>
+
+
 
 <h1 align="center">Contacto</h1>
 
@@ -131,6 +151,7 @@
     <td><a href="https://www.mailersend.com/" ><img src="./assets/mailersend.png" alt="mailersend" width="50" height="50"/></a></td>
     <td><a href="https://resend.com/" ><img src="./assets/resend-icon-white.png" alt="resend" width="50" height="50"/></a></td>
     <td><a href="https://cloudinary.com/" ><img src="./assets/cloudinary.png" alt="cloudinary" width="50" height="50"/></a></td>
+    <td><a href="https://openrouter.ai/" ><img src="./assets/open-router-dark.png" alt="Open Router" width="50" height="50"/></a></td>
   </tr>
 </table>
 
@@ -158,6 +179,15 @@
     <td><a href="https://jestjs.io/docs/getting-started" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="50" height="50"/></a></td>
   </tr>
 </table>
+
+<h2 align="center">DevOps</h2>
+<table align="center" border="1">
+  <tr>
+    <td><a href="https://docs.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="docker" width="50" height="50"/></a></td>
+  </tr>
+</table>
+
+
   <!-- <a href="https://www.npmjs.com/package/supertest" ><img src="./assets/supertest.png" alt="supertest" width="60" height="60"/></a> -->
 
 <h2 align="center">Software y herramientas</h2>
@@ -165,14 +195,14 @@
   <tr>
     <td><a href="https://plantuml.com/es/" ><img src="./assets/plantuml.svg" alt="plantuml" width="50" height="50"/></a></td>
     <td><a href="https://www.figma.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="50" height="50" /></a></td>
-    <td><a href="https://github.com/marktext/marktext" ><img src="assets/marktext.png"  alt="marktext"  width="50" height="50"/></a></td>
+    <td><a href="https://obsidian.md/" ><img src="assets/Obsidian.png"  alt="Obsidian"  width="50" height="50"/></a></td>
     <td><a href="https://code.visualstudio.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/></a></td>
   </tr>
 </table>
 
 <table align="center" border="1">
   <tr>
-    <td><a href="https://windsurf.com/" ><img src="./assets/Windsurf-logo.png" alt="windsurf" width="50" height="50"/></a></td>
+    <td><a href="https://devin.ai/desktop" ><img src="./assets/devin.png" alt="Devin Desktop" width="50" height="50"/></a></td>
     <td><a href="https://jupyter.org/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/></a></td>
     <td><a href="https://dbeaver.io/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="50" height="50"/></a></td>
     <td><a href="https://postman.com" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="50" height="50"/></a></td>
@@ -193,11 +223,15 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=armandoenrique1010k&row=3&column=4&margin-w=20&margin-h=20&theme=algolia" alt="armandoenrique1010k" /></a> </p> -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=armandoenrique1010k&title=-Reviews&row=3&column=4&margin-w=20&margin-h=20&theme=algolia" alt="armandoenrique1010k" /></a> </p>
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=armandoenrique1010k&title=-Reviews&row=3&column=4&margin-w=20&margin-h=20&theme=algolia" alt="armandoenrique1010k" /></a> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armandoenrique1010k&show_icons=true&locale=es&layout=pie&theme=algolia&langs_count=6&hide=papyrus&size_weight=1&count_weight=0&exclude_repo=Curso-React-Pro-Lleva-tus-bases-al-siguiente-nivel" alt="armandoenrique1010k" /></p>
+<!-- OLD vs NEW -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/stats-organization/github-stats-extended -->
+<p align="center"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=armandoenrique1010k&show_icons=true&locale=es&layout=pie&theme=algolia&langs_count=6&hide=papyrus&size_weight=1&count_weight=0&exclude_repo=Curso-React-Pro-Lleva-tus-bases-al-siguiente-nivel" alt="armandoenrique1010k" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=armandoenrique1010k&show_icons=true&locale=es&theme=algolia" alt="armandoenrique1010k"/></p>
+<p align="center"><img align="center" src="https://github-stats-extended.vercel.app/api?username=armandoenrique1010k&show_icons=true&locale=es&theme=algolia" alt="armandoenrique1010k"/></p>
 <p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=ArmandoEnrique1010K&theme=dark&locale=es&theme=algolia" alt="armandoenrique1010k"/></p>
 
 <!-- GENERADO CON: https://capsule-render.vercel.app/ -->
