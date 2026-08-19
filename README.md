@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 <!-- BANNER GENERADO CON: https://leviarista.github.io/github-profile-header-generator/ -->
-<img src="./assets/github-header-banner.png">
+<img src="./assets/github-header-banner-2.png">
 
 
 
