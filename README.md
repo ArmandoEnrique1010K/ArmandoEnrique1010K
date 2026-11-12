@@ -3,7 +3,9 @@
 <img src="./assets/github-header-banner-2.png">
 
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=&weight=300&size=36&duration=2000&pause=2000&color=09CAF7&background=FFFFFF00&center=true&vCenter=true&width=435&height=80&lines=Full+Stack+Developer;Backend+Developer;Software+Architect">
+</p>
 <p align="center">
     <span>🔭 Actualmente estoy trabajando en un <strong>🚀 Proyecto de microservicios con Java y Spring Boot ☕</strong></span>
     <br>
@@ -31,9 +33,16 @@
     <td>
       <img src="https://user-badge.committers.top/peru_public/ArmandoEnrique1010K.svg"/>
     </td>
+    <td>
+      <img src="https://img.shields.io/badge/Longest_Streak-365_Days-orange?&logo=github"/>
+    </td>
   </tr>
 </table>
 
+<br/>
+<p align="center">
+<img src="https://chronogit.vercel.app/api/streaks/svg?username=ArmandoEnrique1010K&accent=%2347e15b&hide_border=true&hide_title=true&width=520">
+</p>
 
 
 <h1 align="center">Contacto</h1>
@@ -55,6 +64,11 @@
     <td><a href="https://www.typescriptlang.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/></a></td>
     <td><a href="https://docs.oracle.com/en/java/javase/24/docs/api/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="50" height="50"/></a></td>
     <td><a href="https://docs.python.org/3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50"/></a></td>
+  </tr>
+</table>
+<table align="center" border="1">
+  <tr>
+      <td><a href="https://plantuml.com/es/" ><img src="./assets/plantuml.svg" alt="plantuml" width="50" height="50"/></a></td>
   </tr>
 </table>
 
@@ -94,6 +108,8 @@
 </table>
 
 <h2 align="center">Dependencias</h2>
+
+<h3 align="center">Frontend - React</h3>
 <table align="center" border="1">
   <tr>
     <td><a href="https://reactrouter.com/home" ><img src="https://raw.githubusercontent.com/bestofjs/bestofjs/d2cf54890fd04223cbef504ab057f05aba96fe17/apps/web/public/logos/react-router.dark.svg" alt="reactrouter" width="50" height="50" /></a></td>
@@ -112,26 +128,54 @@
 </table>
 <table align="center" border="1">
   <tr>
+    <td><a href="https://headlessui.com/" ><img src="./assets/HeadlessUI.png" alt="HeadlessUI" width="50" height="50"/></a></td>
+    <td><a href="https://formik.org/" ><img src="./assets/formik.png" alt="Formik" width="50" height="50"/></a></td>
+    <td><a href="https://dndkit.com/" ><img src="./assets/Dndkit.jpg" alt="PWA" width="50" height="50"/></a></td>
+    <td><a href="https://vite-pwa-org.netlify.app/" ><img src="./assets/pwa.png" alt="PWA" width="50" height="50"/></a></td>
+  </tr>
+</table>
+
+<h3 align="center">Frontend - Next.js</h3>
+<table align="center" border="1">
+  <tr>
+    <td><a href="https://www.prisma.io/docs" ><img src="./assets/light-prisma-svgrepo-com.svg" alt="prisma" width="50" height="50"/></a></td>
+    <td><a href="https://better-auth.com/" ><img src="./assets/Betterauth.png" alt="prisma" width="50" height="50"/></a></td>
+  </tr>
+</table>
+
+<h3 align="center">Backend - Node.js</h3>
+<table align="center" border="1">
+  <tr>
     <td><a href="https://www.npmjs.com/package/nodemon" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" alt="nodemon" width="50" height="50"/></a></td>
     <td><a href="https://mongoosejs.com/docs/index.html" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" alt="mongoose" width="50" height="50"/></a></td>
     <td><a href="https://sequelize.org/docs/v6/getting-started/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" alt="sequelize" width="50" height="50"/></a></td>
-    <td><a href="https://www.prisma.io/docs" ><img src="./assets/light-prisma-svgrepo-com.svg" alt="prisma" width="50" height="50"/></a></td>
-  </tr>
-</table>
-<table align="center" border="1">
-  <tr>
     <td><a href="https://express-validator.github.io/docs/" ><img src="https://express-validator.github.io/img/logo.svg" alt="express-validator" width="50" height="50"/></a></td>
-    <td><a href="https://www.jwt.io/" ><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt" width="50" height="50"/></a></td>
-    <td><a href="https://swagger.io/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="swagger" width="50" height="50"/></a></td>
+  </tr>
+</table>
+
+<h3 align="center">Backend - Spring Boot</h3>
+<table align="center" border="1">
+  <tr>
     <td><a href="https://docs.spring.io/spring-boot/index.html" ><img src="./assets/spring-boot.svg" alt="spring boot" width="50" height="50"/></a></td>
+    <td><a href="https://docs.spring.io/spring-data/jpa/reference/" ><img src="./assets/spring-data.svg" alt="spring data JPA" width="50" height="50"/></a></td>
+    <td><a href="https://projectlombok.org/features/" ><img src="./assets/lombok.png" alt="lombok" width="50" height="50"/></a></td>
+    <td><a href="https://mapstruct.org/" ><img src="./assets/Mapstruct.png" alt="Mapstruct" width="50" height="50"/></a></td>
   </tr>
 </table>
 <table align="center" border="1">
   <tr>
-    <td><a href="https://projectlombok.org/features/" ><img src="./assets/lombok.png" alt="lombok" width="50" height="50"/></a></td>
-    <td><a href="https://docs.spring.io/spring-data/jpa/reference/" ><img src="./assets/spring-data.svg" alt="spring data" width="50" height="50"/></a></td>
     <td><a href="https://docs.spring.io/spring-security/reference/index.html" ><img src="./assets/spring-security.svg" alt="spring security" width="50" height="50"/></a></td>
+    <td><a href="https://github.com/librepdf/openpdf" ><img src="./assets/Openpdf.png" alt="Open PDF" width="50" height="50"/></a></td>
+    <td><a href="https://poi.apache.org/apidocs/index.html" ><img src="./assets/apachepoi.png" alt="Apache POI" width="50" height="50"/></a></td>
     <td><a href="https://github.com/jwtk/jjwt" ><img src="./assets/jjwt.png" alt="Java JWT" width="50" height="50"/></a></td>
+  </tr>
+</table>
+<table align="center" border="1">
+  <tr>
+    <td><a href="https://docs.spring.io/spring-security/reference/servlet/oauth2/index.html" ><img src="./assets/Oauth2.png" alt="Open API" width="50" height="50"/></a></td>
+    <td><a href="https://learn.openapis.org/" ><img src="./assets/OpenAPI.png" alt="Open API" width="50" height="50"/></a></td>
+    <td><a href="https://resilience4j.readme.io/docs/getting-started" ><img src="./assets/resilence4j-svg.svg" alt="Resilence4j" width="50" height="50"/></a></td>
+    <td><a href="https://docs.spring.io/spring-cloud/docs/2022.0.5/reference/html/" ><img src="./assets/spring-cloud.png" alt="spring Cloud" width="60" /></a></td>
   </tr>
 </table>
 
@@ -148,10 +192,9 @@
 <h2 align="center">Integraciones con servicios externos</h2>
 <table align="center" border="1">
   <tr>
-    <td><a href="https://www.mailersend.com/" ><img src="./assets/mailersend.png" alt="mailersend" width="50" height="50"/></a></td>
     <td><a href="https://resend.com/" ><img src="./assets/resend-icon-white.png" alt="resend" width="50" height="50"/></a></td>
     <td><a href="https://cloudinary.com/" ><img src="./assets/cloudinary.png" alt="cloudinary" width="50" height="50"/></a></td>
-    <td><a href="https://openrouter.ai/" ><img src="./assets/open-router-dark.png" alt="Open Router" width="50" height="50"/></a></td>
+    <td><a href="https://openrouter.ai/" ><img src="./assets/open-router.png" alt="Open Router" width="50"/></a></td>
   </tr>
 </table>
 
@@ -177,6 +220,7 @@
 <table align="center" border="1">
   <tr>
     <td><a href="https://jestjs.io/docs/getting-started" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="50" height="50"/></a></td>
+        <td><a href="https://swagger.io/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="swagger" width="50" height="50"/></a></td>
   </tr>
 </table>
 
@@ -193,7 +237,6 @@
 <h2 align="center">Software y herramientas</h2>
 <table align="center" border="1">
   <tr>
-    <td><a href="https://plantuml.com/es/" ><img src="./assets/plantuml.svg" alt="plantuml" width="50" height="50"/></a></td>
     <td><a href="https://www.figma.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="50" height="50" /></a></td>
     <td><a href="https://obsidian.md/" ><img src="assets/Obsidian.png"  alt="Obsidian"  width="50" height="50"/></a></td>
     <td><a href="https://code.visualstudio.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/></a></td>
@@ -212,26 +255,54 @@
 <table align="center" border="1">
   <tr>
     <td><a href="https://chatgpt.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/ChatGPT_Search_logo_Black_Square_-_rounded_corners.svg" alt="chatgpt" width="50" height="50"/></a></td>
-    <td><a href="https://www.notion.com/es" ><img src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/notion-icon.svg" alt="notion" width="50" height="50"/></a></td>
     <td><a href="https://notebooklm.google/" ><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/47d6fdf80f02218515777b573895686299f5470e/svg/notebook-lm-dark.svg" alt="notion" width="50" height="50"/></a></td>
   </tr>
 </table>
 
+<table align="center" border="1">
+  <tr>
+      <td><a href="https://www.jwt.io/"><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt" width="50" height="50"/></a></td>
+  </tr>
+</table>
+
+
+
+
 <br></br>
 
 <h1 align="center">Estadisticas</h1>
+
+
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=armandoenrique1010k&row=3&column=4&margin-w=20&margin-h=20&theme=algolia" alt="armandoenrique1010k" /></a> </p> -->
 
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=armandoenrique1010k&title=-Reviews&row=3&column=4&margin-w=20&margin-h=20&theme=algolia" alt="armandoenrique1010k" /></a> </p>
 
+
+
 <!-- OLD vs NEW -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://github.com/stats-organization/github-stats-extended -->
-<p align="center"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=armandoenrique1010k&show_icons=true&locale=es&layout=pie&theme=algolia&langs_count=6&hide=papyrus&size_weight=1&count_weight=0&exclude_repo=Curso-React-Pro-Lleva-tus-bases-al-siguiente-nivel" alt="armandoenrique1010k" /></p>
+<!-- <p align="center"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=armandoenrique1010k&show_icons=true&locale=es&layout=pie&theme=algolia&langs_count=6&hide=papyrus&size_weight=1&count_weight=0&exclude_repo=Curso-React-Pro-Lleva-tus-bases-al-siguiente-nivel" alt="armandoenrique1010k" /></p>
 
-<p align="center"><img align="center" src="https://github-stats-extended.vercel.app/api?username=armandoenrique1010k&show_icons=true&locale=es&theme=algolia" alt="armandoenrique1010k"/></p>
+</p> -->
+
+<p align="center"> 
+<img src="https://chronogit.vercel.app/api/cards/languages?username=ArmandoEnrique1010K&theme=tokyonight&hide_border=true"/>
+</p>
+
+<!-- <p align="center"><img align="center" src="https://github-stats-extended.vercel.app/api?username=armandoenrique1010k&show_icons=true&locale=es&theme=algolia" alt="armandoenrique1010k"/></p> -->
+
+<p align=center>
+<img src="https://chronogit.vercel.app/api/cards/tier?username=ArmandoEnrique1010K&theme=tokyonight"/>
+</p>
+<!-- https://gitranks.com/badge/builder -->
+<p align="center">
+  <img src="https://gitranks.com/badge/user/ArmandoEnrique1010K/profile-card.svg?scheme=night"/>
+</p>
+
+
 <p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=ArmandoEnrique1010K&theme=dark&locale=es&theme=algolia" alt="armandoenrique1010k"/></p>
 
 <!-- GENERADO CON: https://capsule-render.vercel.app/ -->
